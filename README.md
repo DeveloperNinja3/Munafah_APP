@@ -58,3 +58,14 @@ The project aimed to:
 ---
 
 ### Snapshots  
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+  <img src="https://github.com/user-attachments/assets/0e6d7866-0f29-44c3-8d92-a95657034f21" alt="03" style="width: 100px; height: auto;">
+  <img src="https://github.com/user-attachments/assets/e0758c0a-0b92-4bc0-abff-a365742a1908" alt="04" style="width: 100px; height: auto;">
+  <img src="https://github.com/user-attachments/assets/2f68b396-d62a-4fd3-9b5a-20a882a09e10" alt="05" style="width: 100px; height: auto;">
+  
+  <img src="https://github.com/user-attachments/assets/2db81a6a-da04-4a3c-afda-a70b065a17a8" alt="06" style="width: 100px; height: auto;">
+  <img src="https://github.com/user-attachments/assets/208da34a-cca6-447c-873a-f3ffe6703a54" alt="02" style="width: 100px; height: auto;">
+</div>
+
+
