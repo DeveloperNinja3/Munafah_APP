@@ -1,13 +1,7 @@
 # Munafah_APP
 ---
 
-[![Kotlin](https://img.shields.io/badge/Built%20with-Kotlin-orange)](https://kotlinlang.org/)  
-[![Compose Multiplatform](https://img.shields.io/badge/Compose-Multiplatform-blue)](https://github.com/JetBrains/compose-jb)  
-[![Decompose Navigation](https://img.shields.io/badge/State%20Management-Decompose-brightgreen)](https://arkivanov.github.io/Decompose/)  
-[![Dependency Injection](https://img.shields.io/badge/DI-Koin-purple)](https://insert-koin.io/)  
-[![Datetime Support](https://img.shields.io/badge/Datetime-Kotlinx-green)](https://github.com/Kotlin/kotlinx-datetime)  
-[![Moko Resources](https://img.shields.io/badge/Resources-Moko-blueviolet)](https://github.com/icerockdev/moko-resources)  
-[![Window Insets Handling](https://img.shields.io/badge/Insets-InsetX-yellow)](https://github.com/arkivanov/InsetX)  
+[![Kotlin](https://img.shields.io/badge/Built%20with-Kotlin-orange)](https://kotlinlang.org/) [![Compose Multiplatform](https://img.shields.io/badge/Compose-Multiplatform-blue)](https://github.com/JetBrains/compose-jb) [![Decompose Navigation](https://img.shields.io/badge/State%20Management-Decompose-brightgreen)](https://arkivanov.github.io/Decompose/) [![Dependency Injection](https://img.shields.io/badge/DI-Koin-purple)](https://insert-koin.io/) [![Datetime Support](https://img.shields.io/badge/Datetime-Kotlinx-green)](https://github.com/Kotlin/kotlinx-datetime) [![Moko Resources](https://img.shields.io/badge/Resources-Moko-blueviolet)](https://github.com/icerockdev/moko-resources) [![Window Insets Handling](https://img.shields.io/badge/Insets-InsetX-yellow)](https://github.com/arkivanov/InsetX)  
 
 ---
 
